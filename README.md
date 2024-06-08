@@ -29,7 +29,7 @@ Contributions to this project are more than welcome! Whether you're passionate a
 Installation:
 To run the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/nft-website.git
+Clone the repository: git clone https://github.com/Ayush1974/NFTWebsiteX.git
 Navigate to the project directory: cd nft-website
 Install dependencies: npm install
 Start the development server: npm start
